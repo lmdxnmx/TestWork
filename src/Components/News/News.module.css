@@ -1,0 +1,14 @@
+.news__content{
+    display:flex;
+    flex-direction:column;
+    border-bottom:1px solid black;
+    padding:5px;
+}
+.news__content_title{
+    font-size:18px;
+    font-weight:bold;
+}
+.news__content_body{
+    font-size:18px;
+    font-style:italic;
+}
